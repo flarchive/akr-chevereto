@@ -1,27 +1,26 @@
 # akr/chevereto (Archive)
 
-This repository is a permanent, read-only archive of released versions of `akr/chevereto`, preserved by [Flarchive](https://github.com/flarchive/archive-index).
+> **Read-only archive of released versions of akr/chevereto.** Not for installation: use [Packagist](https://packagist.org/packages/akr/chevereto) or the [upstream repository](https://github.com/AKR-Developers/flarum-chevereto).
 
-> **ARCHIVE NOTICE:** This repository is a permanent, read-only historical archive. It is strictly for preservation, historical audit, and recovery. **Do not install extensions from this archive.** For active forum installations, always use the official package releases on Packagist and the original author's repository.
+**5** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/akr-chevereto/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0.0`
 
-> **Not affiliated with the Flarum Foundation or the Flarum project.**
+## Archived Versions
 
-## Archive Status
+| Version | Released | Flarum | Source |
+|---|---|---|---|
+| `1.0.1` | 2021-05-30 | `^1.0.0` | [Browse](https://github.com/flarchive/akr-chevereto/tree/archive/v1.0.1) |
+| `1.0.0` | 2021-05-30 | `^1.0.0` | [Browse](https://github.com/flarchive/akr-chevereto/tree/archive/v1.0.0) |
+| `0.1.2` | 2020-05-06 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/akr-chevereto/tree/archive/v0.1.2) |
+| `0.1.1` | 2020-04-04 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/akr-chevereto/tree/archive/v0.1.1) |
+| `0.1.0` | 2020-04-01 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/akr-chevereto/tree/archive/v0.1.0) |
 
-- **Latest Archived Release:** `1.0.1`
-- **Target Flarum Compatibility:** `^1.0.0`
-- **Declared License:** `MIT`
-- **Upstream Repository:** https://github.com/AKR-Developers/flarum-chevereto.git
-- **All Archived Tags:** [View Tags](https://github.com/flarchive/akr-chevereto/tags)
+Catalog entry: [packages/akr-chevereto.json](https://github.com/flarchive/archive-index/blob/main/packages/akr-chevereto.json)
 
-*Archived source trees are preserved byte-for-byte as immutable tags under `refs/tags/archive/*`. The `main` branch contains only this archive notice.*
+## About this archive
 
-## Archive Catalog
-
-- **Catalog Entry (JSON):** [View manifest](https://github.com/flarchive/archive-index/blob/main/packages/akr-chevereto.json)
-- Upstream repository: https://github.com/AKR-Developers/flarum-chevereto.git
-- Issues, pull requests, discussions, and wiki are disabled on this repository.
-
-See the Archive Index for policy, disclaimer, and takedown procedures:
-- [POLICY.md](https://github.com/flarchive/archive-index/blob/main/POLICY.md)
-- [DISCLAIMER.md](https://github.com/flarchive/archive-index/blob/main/DISCLAIMER.md)
+- **Immutability:** Archive versions are stored as protected tags and cannot be modified or overwritten.
+- **Main branch:** The `main` branch contains only this archive notice; source code is stored within each respective version tag.
+- **License:** The original license and copyright notices are preserved inside each archived version.
+- **As-is:** Archived code is provided as-is, without warranty of any kind. The archive does not maintain, test, or verify the safety of archived extensions, and is not responsible for broken, unmaintained, or insecure code.
+- **Independence:** This archive is an independent project and is not affiliated with, endorsed by, or sponsored by the Flarum Foundation or the Flarum project.
+- **Policies:** See [POLICY.md](https://github.com/flarchive/archive-index/blob/main/POLICY.md) and [DISCLAIMER.md](https://github.com/flarchive/archive-index/blob/main/DISCLAIMER.md) for takedown and exclusion procedures.
